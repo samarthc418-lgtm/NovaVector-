@@ -1,5 +1,4 @@
- name: Deploy Site to Pages
-
+name: Deploy Site to Pages
 on:
   push:
     branches: [ main ]
